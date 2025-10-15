@@ -82,3 +82,5 @@
 # Additional Implementation 1760551259
 
 # PR Merge: 2025-10-16 - fix/merge-4167
+
+# PR Merge: 2025-10-16 - docs/merge-8836

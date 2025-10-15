@@ -86,3 +86,5 @@
 # PR Merge: 2025-10-16 - docs/merge-8836
 
 # PR Merge: 2025-10-16 - enhancement/merge-6508
+
+# PR Update: 2025-10-16 - docs/update-8134
